@@ -10,9 +10,9 @@ This algorithm is developed with python and OpenCV library is used in it.
 All the dependencies and required libraries are included in the file <code>requirements.txt</code> [see here](https://github.com/rezaAdinepour/Persian-Handwritten-Digit-Recognition/blob/main/requirements.txt)
 
 ## :bulb: Working
-After cloning the repository, run <code>mlp_classification_letters.py</code> on your IDE or open terminal and write following command:
+After cloning the repository, run <code>main.py</code> on your IDE or open terminal and write following command:
 ```
-$ python3 mlp_classification_letters.py
+$ python3 main.py
 ```
 
 ## :floppy_disk: Results
