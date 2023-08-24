@@ -5,8 +5,6 @@ This algorithm is developed with python and OpenCV library is used in it.
 ## :hammer: Libraries used 
 
 - [OpenCV](https://opencv.org/)
-- [Numpy]()
-- [Matplotlib](https://matplotlib.org/)
 
 ## :key: Prerequisites
 All the dependencies and required libraries are included in the file <code>requirements.txt</code> [see here](https://github.com/rezaAdinepour/Persian-Handwritten-Digit-Recognition/blob/main/requirements.txt)
