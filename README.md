@@ -16,10 +16,5 @@ $ python3 main.py
 ```
 
 ## :floppy_disk: Results
-You can see result of thid cod in following picture:
-
+Result of <code></code>
 ![image](Result/Figure_1.png)
-
-## License
-This project is licensed under the [MIT License]().
-
