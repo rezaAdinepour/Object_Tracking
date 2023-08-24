@@ -17,4 +17,4 @@ $ python3 main.py
 
 ## :floppy_disk: Results
 Result of <code>highway.mp4</code> file is in below:
-![image](Result/Figure_1.png)
+![Live Demo](https://github.com/rezaAdinepour/Car_Tracking_Cpp/blob/main/Result/Demo.gif)
